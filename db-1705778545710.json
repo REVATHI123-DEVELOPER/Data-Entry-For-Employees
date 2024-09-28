@@ -1,0 +1,40 @@
+{
+  "createuser": [
+    {
+      "Username": "Revathi",
+      "category": "Angular Js Developer",
+      "date": "2024-11-27T18:30:00.000Z",
+      "experience": "Trainee",
+      "salary": 30000,
+      "about": "Angular developer with skills Angular 14, Html, CSS, Javascript, Angular Material, Typescript coding",
+      "id": 1
+    },
+    {
+      "Username": "Some user",
+      "category": "Angular Js Developer",
+      "date": "2025-12-30T18:30:00.000Z",
+      "experience": "Employee",
+      "salary": 80000,
+      "about": "Experienced in Angular Full stack development professional",
+      "id": 2
+    },
+    {
+      "Username": "User 3(Raghu)",
+      "category": "ReactJs Developer",
+      "date": "2024-03-12T18:30:00.000Z",
+      "experience": "Fresher",
+      "salary": 28000,
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
